@@ -1,1 +1,1 @@
-I am [https://github.com/jasonm](@jasonm) on github
+I am [@jasonm](https://github.com/jasonm) on github
