@@ -1,2 +1,1 @@
-# see-jasonm
-I am @jasonm on github
+I am [https://github.com/jasonm](@jasonm) on github
